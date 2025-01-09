@@ -1,0 +1,3 @@
+repository:
+  description: "Minimal Tasmota Smart Meter Script for EFR SGM-C4"
+  topics: homeassistant, automation, tasmota
